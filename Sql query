@@ -1,0 +1,7 @@
+SELECT name
+FROM customers;
+SELECT * FROM customers;
+SELECT DISTINCT name
+FROM customers;
+SELECT TOP 50 * FROM customers;
+SELECT TOP 50 PERCENT * FROM customers;
